@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>222</h1>
+    <h1>22</h1>
      <router-link to="/login">我要去登录</router-link>
     <!-- <router-view></router-view> -->
   </div>
